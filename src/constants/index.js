@@ -79,7 +79,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Tilottama-5, Rupandehi, Nepal",
-  phoneNo: "+9779821511598",
-  email: "baralisujan101@gmail.com",
+  address: "kirstintie 30 C 54, Suvela, Espoo, Finland",
+  phoneNo: "0402457336",
+  email: "Sujan.B.K.Barali@metropolia.fi",
 };
