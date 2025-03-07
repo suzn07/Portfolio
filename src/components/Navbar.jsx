@@ -1,6 +1,6 @@
 import logo from "../assets/logo.png";
 import { FaLinkedin } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa";
+// import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
@@ -19,8 +19,16 @@ const Navbar = () => {
         >
           <FaLinkedin />
         </a>
-        <FaGithub />
-        <FaInstagram />
+        {/* <FaGithub /> */}
+        <a
+          href="https://www.instagram.com/suzn077/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="LinkedIn"
+          className="hover:text-blue-700"
+        >
+          <FaInstagram />
+        </a>
       </div>
     </nav>
   );
