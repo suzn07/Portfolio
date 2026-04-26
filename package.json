@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "engines": {
-    "node": ">=14.0.0"
+    "node": "20.20.2"
   },
   "scripts": {
     "prebuild": "chmod +x node_modules/.bin/vite",
